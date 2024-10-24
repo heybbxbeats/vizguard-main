@@ -1,0 +1,6 @@
+{"level":"error","message":"Error sending premium content to undefined: Invalid content category","timestamp":"2024-10-22T02:24:18.641Z"}
+{"level":"error","message":"Unhandled promise rejection: other side closed","timestamp":"2024-10-22T02:24:18.949Z"}
+{"level":"error","message":"Unhandled promise rejection: other side closed","timestamp":"2024-10-22T10:48:39.526Z"}
+{"level":"error","message":"Failed to send webhook: Invalid URL","timestamp":"2024-10-22T10:48:39.530Z"}
+{"level":"error","message":"Unhandled promise rejection: EARGS (-2): You have passed invalid arguments to this command.","timestamp":"2024-10-22T10:48:40.628Z"}
+{"level":"error","message":"Failed to send webhook: Invalid URL","timestamp":"2024-10-22T10:48:40.629Z"}

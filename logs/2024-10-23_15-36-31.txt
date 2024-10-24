@@ -1,0 +1,24 @@
+npm WARN deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm WARN deprecated eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+
+changed 25 packages, and audited 440 packages in 814ms
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+3 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+> vizguard@1.0.0 start
+> node index.js
+
+[32minfo[39m: Logged in as VizGuard#3018 {"timestamp":"2024-10-23T15:36:33.636Z"}
+[32minfo[39m: MEGA connection successful {"timestamp":"2024-10-23T15:36:34.532Z"}
+[32minfo[39m: Started refreshing application (/) commands. {"timestamp":"2024-10-23T15:36:34.532Z"}
+[32minfo[39m: Cleared existing commands. {"timestamp":"2024-10-23T15:37:11.666Z"}
+[32minfo[39m: Successfully registered 4 application (/) commands. {"timestamp":"2024-10-23T15:37:11.850Z"}
+[32minfo[39m: Bot initialization complete {"timestamp":"2024-10-23T15:37:11.850Z"}
